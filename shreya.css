@@ -1,0 +1,30 @@
+img{
+    width: 200px;
+    height: 200px;
+    display: inline;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+/*-------------v---------------*/
+
+table,tr,td{
+   border: 3px solid black;
+   margin: 40px;
+}
+tr,td{
+    padding: 10px;
+}
+table {
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+
